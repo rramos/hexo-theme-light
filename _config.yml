@@ -1,6 +1,7 @@
 menu:
   Home:
   Archives: archives
+  About: about
 
 widgets:
 - search
@@ -9,28 +10,28 @@ widgets:
 
 excerpt_link: Read More
 
-twitter:
-  username:
+twitter: 
+  username: ruimsramos
   show_replies: false
   tweet_count: 5
 
 addthis:
   enable: true
-  pubid:
+  pubid: 
   facebook: true
   twitter: true
   google: true
   pinterest: true
 
-fancybox: true
+fancybox: false
 
-google_analytics:
+google_analytics: UA-106053129-1
 rss:
 
 comment_provider: facebook
 # Facebook comment
 facebook:
-  appid: 123456789012345
+  appid: 524446951221420
   comment_count: 5
   comment_width: 840
   comment_colorscheme: light
