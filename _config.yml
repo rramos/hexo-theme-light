@@ -17,11 +17,12 @@ twitter:
 
 addthis:
   enable: true
-  pubid: 
+  pubid: ra-59c7d222fcd19d69 
+  linkedin: true 
   facebook: true
   twitter: true
   google: true
-  pinterest: true
+  pinterest: false
 
 fancybox: false
 
