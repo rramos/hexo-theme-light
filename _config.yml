@@ -26,7 +26,8 @@ addthis:
 
 fancybox: false
 
-google_analytics: UA-106053129-1
+google_analytics: 
+gtm: GTM-MXRC4DK
 rss:
 
 comment_provider: facebook
